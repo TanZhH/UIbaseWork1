@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UIbaseWork1</string>
+    <string name="book_coverStr">此处为图书封面</string>
+    <string name="book_nameStr">书名</string>
+    <string name="book_overviewStr">概述</string>
+    <string name="book_authorStr">作者</string>
+    <string name="book_dateStr">日期</string>
+</resources>
